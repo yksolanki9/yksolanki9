@@ -2,11 +2,10 @@
 
 <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=yksolanki9&theme=dark" alt="github-streak-stats"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img style="padding-left: 24px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=Wall-E-2.1&langs_count=8&layout=compact&theme=dark" alt="github-lang-stats" />
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=Wall-E-2.1&langs_count=10&layout=compact&theme=dark" alt="github-lang-stats" />
-</p>
 
 <!--
 **yksolanki9/yksolanki9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
