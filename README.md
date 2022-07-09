@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yksolanki9&count_private=true&show_icons=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yksolanki9&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **yksolanki9/yksolanki9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
