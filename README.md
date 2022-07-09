@@ -1,6 +1,12 @@
 ![Header](./github-header-image.png)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yksolanki9&theme=dark)](https://git.io/streak-stats)
+<div style="text-align: center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=yksolanki9&theme=dark" />
+</div>
+
+<div style="text-align: center; padding-top: 20px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=Wall-E-2.1&langs_count=10&layout=compact&theme=dark" />
+</div>
 
 <!--
 **yksolanki9/yksolanki9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
