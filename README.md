@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 ## About me
-- I'm currently working as a Member of Technical Staff at [Fyle](https://www.fylehq.com/)
+- I'm currently working as a Member of Technical Staff II at [Fyle](https://www.fylehq.com/)
 - I'm currently learning native android in Kotlin and always trying to improve my expertise in Angular
 - I'm also working on my portfolio website. It'll be out soon :)
 - Always looking to collaborate on projects, learn and share my knowledge
