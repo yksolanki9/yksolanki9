@@ -2,8 +2,8 @@
 
 ## About me
 - I'm currently working as a Member of Technical Staff II at [Fyle](https://www.fylehq.com/)
-- I'm currently learning native android in Kotlin and always trying to improve my expertise in Angular
-- I'm also working on my portfolio website. It'll be out soon :)
+- I'm currently exploring NextJS and always trying to improve my expertise in Angular
+- Checkout my [portfolio website](https://thesolanki.netlify.app/)
 - Always looking to collaborate on projects, learn and share my knowledge
 - You can always reach out to me on:
 
