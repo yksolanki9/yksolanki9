@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 ## About me
-- I'm currently working as a Member of Technical Staff II at [Fyle](https://www.fylehq.com/)
+- I'm currently working as Full Stack Developer at Craze Technologies.
 - I'm currently exploring NextJS and always trying to improve my expertise in Angular
 - Checkout my [portfolio website](https://thesolanki.netlify.app/)
 - Always looking to collaborate on projects, learn and share my knowledge
