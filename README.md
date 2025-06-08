@@ -3,7 +3,7 @@
 ## About me
 - I'm currently working as Full Stack Developer at Craze Technologies.
 - I'm currently exploring NextJS and always trying to improve my expertise in Angular
-- Checkout my [portfolio website](https://thesolanki.netlify.app/)
+- Checkout my [portfolio website](https://yashsolanki.in/)
 - Always looking to collaborate on projects, learn and share my knowledge
 - You can always reach out to me on:
 
