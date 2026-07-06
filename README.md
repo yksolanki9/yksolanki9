@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image-2.png)
 
 ## About me
 - I'm a **Full Stack & AI Engineer** and the first engineer at [Craze](https://crazehq.com) (YC S22).
